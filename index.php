@@ -13,6 +13,8 @@
         </p>
         <p>NOMBRE: RUBILAR FRANCISCO</p>
         <P>LEGAJO: FAI2426</P>
+        <!--comentario-->
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellendus, dolores.</p>
     </div>
 </body>
 </html>
